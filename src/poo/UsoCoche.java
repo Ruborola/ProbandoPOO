@@ -14,7 +14,7 @@ public class UsoCoche {
 		System.out.println(renault.getClimatizador());
 		System.out.println(renault.getSetPesoTotal());
 		System.out.println("El precio del coche es " + renault.getPrecioTotal() + "€");
-		System.out.println("GUILLAMON TUS MUERTOS");
+		System.out.println("GUILLAMON HIJOPUTA");
 	}
 	
 	
